@@ -34,8 +34,9 @@ Custom SQL queries were developed to meet the specific requirements of the clien
 **Queries:** To meet the client's request in the Staff module, we combined data from three different tables. Utilizing a combination of aggregate functions, JOIN operations, and datetime functions, we successfully calculated the individual production costs for each pizza made by staff members. This valuable information allows the client to manage costs and make informed decisions regarding staffing.
 -	Integration of data from three tables.
 -	Use of aggregate functions, joins, and datetime functions to calculate individual pizza production costs for each staff member.
-3. Building an Interactive Dashboard
-An interactive dashboard was created to visualize and present the data insights. The dashboard offers a user-friendly interface for monitoring and analyzing the information captured in the database.
+## Building an Interactive Dashboard
+An interactive dashboard was created to visualize and present the data insights using the views created in our code. New measures were created using SUMx,CONCATENATEX,DIVIDE measurments to fullfil all the requirments.The dashboard offers a user-friendly interface for monitoring and analyzing the information captured in the database.
+
 [Link to Dashboard](https://app.powerbi.com/links/BbsesK0xA9?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare)
 
 **Conclusion**
