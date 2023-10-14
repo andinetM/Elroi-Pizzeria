@@ -37,6 +37,9 @@ Custom SQL queries were developed to meet the specific requirements of the clien
 ## Building an Interactive Dashboard
 An interactive dashboard was created to visualize and present the data insights using the views created in our code. New measures were created using SUMx,CONCATENATEX,DIVIDE measurments to fullfil all the requirments.The dashboard offers a user-friendly interface for monitoring and analyzing the information captured in the database.
 
+<img src="Images/Orders_Dashboard.png" alt="alt text" width="50%" height="50%">                   
+<img src="Images/Inventory_dashboard.png" alt="alt text" width="50%" height="50%">
+
 [Link to Dashboard](https://app.powerbi.com/links/BbsesK0xA9?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare)
 
 **Conclusion**
